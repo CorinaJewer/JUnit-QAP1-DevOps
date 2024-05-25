@@ -31,7 +31,7 @@ public class SuggestionEngineTest {
     }
 
     // Assert that the program works as expected when special
-    // characters are included in the word.
+    // characters are included in the word argument.
 
     @Test
     public void testWordsWithSpecialCharacters() throws Exception {
